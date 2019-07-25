@@ -1,3 +1,3 @@
 # Country-Explorer
-git clone https://github.com/Vishwarup99/Vishwarup99.github.io
+This project helps in finding information about any country and display them.
 
